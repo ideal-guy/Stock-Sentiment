@@ -46,7 +46,7 @@ Trading Strategy Visualization:
 Clone the repository:
 
 ```bash
-   git clone https://github.com/ideal-guy/Stock-Sentiment.git
+git clone https://github.com/ideal-guy/Stock-Sentiment.git
 ```
 
 Install the required packages:
