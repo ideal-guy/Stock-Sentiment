@@ -45,9 +45,12 @@ Trading Strategy Visualization:
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/sentiment-driven-stock-prediction.git
-](https://github.com/ideal-guy/Stock-Sentiment.git)
+```bash
+   git clone [https://github.com/yourusername/sentiment-driven-stock-prediction.git
+   ](https://github.com/ideal-guy/Stock-Sentiment.git)
+```
 
 Install the required packages:
-
+```bash
 pip install -r requirements.txt
+```
